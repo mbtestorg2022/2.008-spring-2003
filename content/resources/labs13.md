@@ -10,6 +10,7 @@ description: 'This is a manual for Labs I, II, and III. These lab exercises will
   tools.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-008-design-and-manufacturing-ii-spring-2003/6b60ed448eb9c14e8007071a00f2c26a_labs13.pdf
 file_type: application/pdf
+parent_uid: f024f6fe-0bda-1f8b-7fd8-21e3446f0d65
 resourcetype: Document
 title: labs13.pdf
 uid: 6b60ed44-8eb9-c14e-8007-071a00f2c26a
